@@ -4,7 +4,7 @@ export const translations = {
     tagline: 'Finalis Samsung Solve for Tomorrow 2026',
     heroTitle: 'Dukung MIRAcle!',
     heroSubtitle:
-      'Bantu tim BINUS University memenangkan People\u2019s Choice Award. Satu komentar darimu sangat berarti.',
+      'Bantu tim representatif BINUS University memenangkan People’s Choice Award. Satu komentar darimu sangat berarti.',
     heroCopy: 'Salin Komentar',
     heroOpen: 'Buka Instagram',
     howToTitle: 'Cara Vote',
@@ -34,7 +34,7 @@ export const translations = {
     tagline: 'Samsung Solve for Tomorrow 2026 Finalist',
     heroTitle: 'Support MIRAcle!',
     heroSubtitle:
-      'Help team BINUS University win the People\u2019s Choice Award. One comment from you means a lot.',
+      'Help BINUS University representative win the People’s Choice Award. One comment from you means a lot.',
     heroCopy: 'Copy Comment',
     heroOpen: 'Open Instagram',
     howToTitle: 'How to Vote',
